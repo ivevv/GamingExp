@@ -1,0 +1,28 @@
+.table {
+  border-collapse: collapse;
+  width: 1000px;
+  margin: auto;
+}
+.table th {
+  border: 1px solid;
+  border-color: #ccc;
+  margin: 5px 10px;
+  background-color: #f0f1f4;
+}
+
+.table td {
+  border: 1px solid;
+  border-color: #ccc;
+  margin: 5px 10px;
+}
+
+.header {
+  font-style: italic;
+  text-align: center;
+  background-color: #f0f1f4
+}
+.separator {
+  background-color: #f0f1f4;
+  color: #f0f1f4;
+}
+  
